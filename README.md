@@ -3,8 +3,8 @@
 ## Project Proposal Template
 
 ### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
+### Section			   	      : 9-Magnesium
+### Group Members			    : Lataoan, Pascual, Serrano
 ### Date (Proposal Date)  :
 
 ### Project Description:
@@ -25,8 +25,8 @@
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
-- Objective 1:
-- Objective 2:
+- Objective 1: Spread awareness to how misconstrued information and evidence can be used to manipulate people
+- Objective 2: Spread awareness on how human rights violations are being justified as "for the safety of the nation"
 - Objective n:
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
