@@ -12,7 +12,7 @@
 - A game where you play as a powerful leader trying to save a struggling nation, but the game's narration tricks you into justifying war crimes and human rights abuses
 
 - The parent class Citizen has a name, happiness level (1-5), health (1-3), and has four sub-classes: Official, Worker, Student, and Rebel. Officials speak to the user and order workers and students. Workers can strike and join rebellions.
-Students can also strike, join rebellions, and educate the workers. Rebels can recruit students and workers and attack the user.
+Students can also strike, join rebellions, and educate the workers. Rebels can recruit students and workers and attack the user. The user's decisions can affect the happiness level and health of the citizens.
 
 - Include the description as well of your target demographics as the user of your application. 
 
