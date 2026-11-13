@@ -2,7 +2,7 @@
 
 ## Project Proposal Template
 
-### Project Title or Name of the Application	:
+### Project Title or Name of the Application	: A Benevolent Dictator
 ### Section			   	      : 9-Magnesium
 ### Group Members			    : Lataoan, Pascual, Serrano
 ### Date (Proposal Date)  : November 13, 2026
