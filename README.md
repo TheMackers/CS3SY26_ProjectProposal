@@ -18,9 +18,8 @@ Students can also strike, join rebellions, and educate the workers. Rebels can r
 
 - The description is then followed by the class diagram, depicting clearly what was described.
 
-**Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
+<img width="1920" height="1080" alt="1 _" src="https://github.com/user-attachments/assets/752b53e5-9e47-46cd-ad02-90c1851e61a1" />
 
-https://chat.google.com/u/0/api/get_attachment_url?url_type=FIFE_URL&content_type=image%2Fpng&attachment_token=AJGomAb%2FVxD61mMgYGyJiUbxR4EgM%2FeX%2B5tk7kAI1gplKt4duUkLD0klVFswe%2FyMuukfMlhaqeDk%2Fd3df5ZPfzszm1jf5N3OIG5cqYDOsT2fmq%2B7At0tHDoQHtARLUCqyN5sQrjnUz3EmCbJJzcxwklx3E0EB3HBiBSJWTLx50ZKastRwXFFwCMzkB7EcB8HVHGej32MrP3wwlpZZgbT%2BsT4E1DvzBHdW9JtrsXCk%2FUyb%2BteQ7j9%2BMnC4hzQt8JHUy%2FI%2BS0aOA30Qq8%2BvjXDKarp8pUcayggBFw%2BpHrRkQdHKpVRUxr2AMUJLJ9La4io7dNe%2FFgOvRQoEwFPjRHpiGxlicfqDID2dxwFqq2y0cCexZGtzedRLOnBEvBni8brR%2F1JGdRbn2eUCMMkQKeWZ7ynPZYCnMujvrEdhzX80RVVsf8wy8BpqRcJxnpg9fom9kD6cyd6YJQznwdPc4s9dwmiDL0aKFzyoJcoEOl7LiPs1EstPgJgFm%2FASJJ1NR3yrj24zo0Y8A9LDhmLPU4HoCqu%2FpIxOKIGNzrbYdLRba0aDv%2FV3wfIng3U0%2Fld6NRv%2FFEGAgAztRAS0NMMaxm1Wv7MDqbrvkxYG95vU34rs%2BbGXG%2BnqBq2Sw1%2BCwxEM2NqQVe2&allow_caching=true&sz=w1920-h877-rw&auditContext=forDisplay
 
 ### Goals:
 
